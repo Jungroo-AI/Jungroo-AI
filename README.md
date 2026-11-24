@@ -11,7 +11,6 @@ We also publish open models built on the same principle: small enough to run ins
 **[ReDefiNER](https://github.com/Jungroo-AI/redefiner)**: a 0.8B model that extracts the entities you define in a
 plain-English rulebook. It runs on a CPU and is free under Apache 2.0.
 [Model](https://huggingface.co/jungroo-ai/redefiner-0.8b) ·
-[Demo](https://huggingface.co/spaces/jungroo-ai/redefiner-demo) ·
 [Benchmarks](https://github.com/Jungroo-AI/redefiner/tree/main/benchmarks)
 
 Need it on your own data? We write and test rulebooks with you and run ReDefiNER on your own servers:
